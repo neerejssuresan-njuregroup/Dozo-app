@@ -1,0 +1,7 @@
+{
+  "name": "Dozo – Hyperlocal Rental Marketplace",
+  "description": "Dozo is a hyperlocal 'Everything-for-Rent' platform. It bridges the gap between ownership and access, allowing users to rent anything—from daily-use electronics and event gear to monthly-subscription furniture and appliances.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
